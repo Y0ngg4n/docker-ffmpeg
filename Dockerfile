@@ -1,4 +1,4 @@
-FROM ampervue/python34
+FROM ampervue/python3
 
 # https://github.com/ampervue/docker-ffmpeg
 # https://hub.docker.com/r/ampervue/ffmpeg/
